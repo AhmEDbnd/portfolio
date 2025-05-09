@@ -69,21 +69,14 @@ const About: React.FC = () => {
                   <div className="text-2xl mr-3">📧</div>
                   <div>
                     <h3 className="font-medium">Email</h3>
-                    <p className="text-sm text-muted-foreground">contact@ahmed.dev</p>
+                    <p className="text-sm text-muted-foreground">bendjemaahmedamine@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center">
                   <div className="text-2xl mr-3">📍</div>
                   <div>
                     <h3 className="font-medium">Location</h3>
-                    <p className="text-sm text-muted-foreground">Earth, Solar System</p>
-                  </div>
-                </div>
-                <div className="flex items-center">
-                  <div className="text-2xl mr-3">💼</div>
-                  <div>
-                    <h3 className="font-medium">Employment</h3>
-                    <p className="text-sm text-muted-foreground">Open to opportunities</p>
+                    <p className="text-sm text-muted-foreground">Guelma, Algeria</p>
                   </div>
                 </div>
               </div>
@@ -97,7 +90,7 @@ const About: React.FC = () => {
             <div className="space-y-12">
               <div className="relative pl-8 border-l-2 border-purple-500">
                 <div className="absolute -left-[9px] top-1 w-4 h-4 bg-purple-500 rounded-full"></div>
-                <div className="mb-1 text-sm text-purple-400">2023 - Present</div>
+                <div className="mb-1 text-sm text-purple-400">2024 - Present</div>
                 <h3 className="text-xl font-bold">Full Stack Developer</h3>
                 <p className="text-muted-foreground">
                   Building responsive web applications with modern technologies like React, 
@@ -108,7 +101,7 @@ const About: React.FC = () => {
               
               <div className="relative pl-8 border-l-2 border-purple-500">
                 <div className="absolute -left-[9px] top-1 w-4 h-4 bg-purple-500 rounded-full"></div>
-                <div className="mb-1 text-sm text-purple-400">2021 - 2023</div>
+                <div className="mb-1 text-sm text-purple-400">2023 - 2024</div>
                 <h3 className="text-xl font-bold">Front-End Developer</h3>
                 <p className="text-muted-foreground">
                   Specialized in creating responsive and accessible user interfaces using HTML, 
@@ -118,7 +111,7 @@ const About: React.FC = () => {
               
               <div className="relative pl-8 border-l-2 border-purple-500">
                 <div className="absolute -left-[9px] top-1 w-4 h-4 bg-purple-500 rounded-full"></div>
-                <div className="mb-1 text-sm text-purple-400">2019 - 2021</div>
+                <div className="mb-1 text-sm text-purple-400">2022 - 2025</div>
                 <h3 className="text-xl font-bold">Computer Science Student</h3>
                 <p className="text-muted-foreground">
                   Studied computer science fundamentals, algorithms, data structures, and software engineering principles.
